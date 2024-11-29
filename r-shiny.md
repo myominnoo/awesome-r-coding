@@ -1,0 +1,20 @@
+
+> This is an opinionated list when building a shiny app. 
+
+## Frameworks to consider
+
+- rhino https://appsilon.github.io/rhino/index.html
+
+## Components
+
+- Disconnected message:
+  - {shinydisconnect}
+    https://github.com/daattali/shinydisconnect
+    https://daattali.com/shiny/shinydisconnect-demo/
+
+
+
+
+## Multiple apps through {shiny.router}
+
+https://appsilon.github.io/rhino/articles/tutorial/create-your-first-rhino-app.html
