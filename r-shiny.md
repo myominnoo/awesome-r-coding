@@ -11,6 +11,10 @@
   - {[shinydisconnect](https://github.com/daattali/shinydisconnect)} >> [Demo](https://daattali.com/shiny/shinydisconnect-demo/) 
 
 
+- layout
+  - [shiny.semantic](https://appsilon.github.io/shiny.semantic/)
+  - 
+
 
 
 ## Security
