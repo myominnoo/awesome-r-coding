@@ -20,3 +20,8 @@
 
 - {[shiny.router](https://appsilon.github.io/rhino/articles/tutorial/create-your-first-rhino-app.html)}
 
+
+
+## Honorable mentions
+
+- [Dean Attali's r projects](https://deanattali.com/projects/#r-packages)
