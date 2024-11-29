@@ -15,6 +15,9 @@
 
 
 
+## Security
+- (Security considerations)[https://github.com/myominnoo/awesome-r-coding/blob/main/shiny/shiny-security.md]
+
 ## Multiple apps through {shiny.router}
 
 https://appsilon.github.io/rhino/articles/tutorial/create-your-first-rhino-app.html
