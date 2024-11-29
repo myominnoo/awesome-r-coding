@@ -8,9 +8,9 @@
 ## Components
 
 - Disconnected message:
-  - {shinydisconnect}
-    https://github.com/daattali/shinydisconnect
-    https://daattali.com/shiny/shinydisconnect-demo/
+  - {shinydisconnect}    
+    https://github.com/daattali/shinydisconnect    
+    https://daattali.com/shiny/shinydisconnect-demo/    
 
 
 
