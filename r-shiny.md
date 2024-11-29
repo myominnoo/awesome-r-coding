@@ -29,3 +29,8 @@
 ## Honorable mentions
 
 - [Dean Attali's r projects](https://deanattali.com/projects/#r-packages)
+
+
+## Shiny Showcases
+
+- [covid-poops](https://metrotransitmn.shinyapps.io/metc-wastewater-covid-monitor/) >> [Source Code](https://github.com/Metropolitan-Council/covid-poops)
