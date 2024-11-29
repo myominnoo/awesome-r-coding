@@ -16,7 +16,7 @@
 
 
 ## Security
-- (Security considerations)[https://github.com/myominnoo/awesome-r-coding/blob/main/shiny/shiny-security.md]
+- [Security considerations](https://github.com/myominnoo/awesome-r-coding/blob/main/shiny/shiny-security.md)
 
 ## Multiple apps through {shiny.router}
 
