@@ -8,4 +8,4 @@
 - R Graphics Cookbook, 2nd edition by Winston Chang https://r-graphics.org/
 - Statistical Inference via Data Science | A ModernDive into R and the Tidyverse https://moderndive.com/
 - Introduction to Statistics by Dr. Lauren Perry https://bookdown.org/lgpperry/introstats/
-- 
+- Advanced Statistical Modelling by Dr. S Jackson https://bookdown.org/ssjackson300/ASM_Lecture_Notes/
