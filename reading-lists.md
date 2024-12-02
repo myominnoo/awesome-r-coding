@@ -9,3 +9,4 @@
 - Statistical Inference via Data Science | A ModernDive into R and the Tidyverse https://moderndive.com/
 - Introduction to Statistics by Dr. Lauren Perry https://bookdown.org/lgpperry/introstats/
 - Advanced Statistical Modelling by Dr. S Jackson https://bookdown.org/ssjackson300/ASM_Lecture_Notes/
+- clinical Biostatistics by Leonhard Held https://bookdown.org/charlotte_micheloud93/Clinical_Biostatistics/
