@@ -7,6 +7,7 @@
 - Introduction to Statistics by Dr. Lauren Perry https://bookdown.org/lgpperry/introstats/
 - Advanced Statistical Modelling by Dr. S Jackson https://bookdown.org/ssjackson300/ASM_Lecture_Notes/
 - Analysis of High-Dimension Data by Stadler based on the ISLR book https://tidy-survey-r.github.io/tidy-survey-book/
+- MixTape Causal inference - https://mixtape.scunning.com/
 
 ## Biostats & Data Science in Public Health
 - clinical Biostatistics by Leonhard Held https://bookdown.org/charlotte_micheloud93/Clinical_Biostatistics/
