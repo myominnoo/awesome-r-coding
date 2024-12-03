@@ -18,4 +18,4 @@ The common qualities of these well-written academic works include clear organiza
 
 
 WritingScientist - https://writingscientist.com/well-written-papers/
-
+How to be more productive (while working less) by Mark Manson - https://markmanson.net/how-to-be-more-productive
